@@ -1,4 +1,8 @@
-# GBDM Query System — Graph-Based Data Modeling & Query System
+# GBDM Query System — Graph-Based Da<img width="1710" height="1111" alt="Screenshot 2026-03-26 at 18 42 20" src="https://github.com/user-attachments/assets/ff85b971-b59e-4220-a021-21a8c78a1988" />
+ta Modeling & Query System<img width="1710" height="1103" alt="Screenshot 2026-03-26 at 18 42 38" src="https://github.com/user-attachments/assets/c2104f20-0986-4453-9b90-1dd2828ced06" />
+
+<img width="1710" height="1110" alt="Screenshot 2026-03-26 at 18 42 53" src="https://github.com/user-attachments/assets/c269faab-674f-422a-b8b6-0910a844c658" />
+
 
 A full-stack application that models SAP Order-to-Cash (O2C) data as an interactive graph and enables natural language querying via LLM.
 
